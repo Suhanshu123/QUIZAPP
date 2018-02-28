@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
             }
             Toast.makeText(this, "Correct Answer", Toast.LENGTH_SHORT).show();
         } else {
-            Toast.makeText(this, "Incorrect Answer " + "\n" + "Correct Answer is : Maharashtra", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Incorrect Answer " + "\n" + "Correct Answer is : Rajasthan", Toast.LENGTH_SHORT).show();
         }
 
     }
