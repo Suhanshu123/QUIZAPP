@@ -1,6 +1,6 @@
 # QuizApp
 
-QuizApp is a simple quiz game in which there are 5 questions and this is a part of Android-Scholarship programme and get score on the basis of how correct questions he has done.
+QuizApp is a simple quiz game in which there are 5 questions and this is a part of Android-Scholarship programme and user get score on the basis of how correct questions he has done.
 
 
 ## layout_main.xml
